@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://oval-hedgehog-309e4.netlify.app"
 }
